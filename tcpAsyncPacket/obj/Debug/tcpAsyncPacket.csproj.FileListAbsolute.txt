@@ -1,0 +1,10 @@
+D:\test\C#\tcpAsyncPacket\tcpAsyncPacket\bin\Debug\tcpAsyncPacket.dll
+D:\test\C#\tcpAsyncPacket\tcpAsyncPacket\bin\Debug\tcpAsyncPacket.pdb
+D:\test\C#\tcpAsyncPacket\tcpAsyncPacket\obj\Debug\tcpAsyncPacket.dll
+D:\test\C#\tcpAsyncPacket\tcpAsyncPacket\obj\Debug\tcpAsyncPacket.pdb
+D:\test\C#\tcpAsyncPacket\tcpAsyncPacket\obj\Debug\tcpAsyncPacket.csprojResolveAssemblyReference.cache
+E:\test\c#\tcpAsyncPacket\tcpAsyncPacket\bin\Debug\tcpAsyncPacket.dll
+E:\test\c#\tcpAsyncPacket\tcpAsyncPacket\bin\Debug\tcpAsyncPacket.pdb
+E:\test\c#\tcpAsyncPacket\tcpAsyncPacket\obj\Debug\tcpAsyncPacket.csprojResolveAssemblyReference.cache
+E:\test\c#\tcpAsyncPacket\tcpAsyncPacket\obj\Debug\tcpAsyncPacket.dll
+E:\test\c#\tcpAsyncPacket\tcpAsyncPacket\obj\Debug\tcpAsyncPacket.pdb
